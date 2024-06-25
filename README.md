@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vicvictorius/count.svg?"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h2 align="left">Hello World</h2>
@@ -19,6 +25,10 @@
 </div>
 
 ###
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 
 <h2 align="left">Techs</h2>
 
@@ -51,12 +61,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vicvictorius/count.svg?"  />
 </div>
 
 ###
