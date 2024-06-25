@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Victor! A passionate Data Science student from Brazil.<br><br>🌱 I'm currently studying python <br><br>🔭 I'm looking for my first job opportunity. My dream is to one day work with AI, Machine Learning and ethical hacking.<br><br>👨 💻 More About Me</p>
+<p align="left">👋 Hi, I'm Victor! A passionate Developer student from Brazil.<br><br>🌱 I'm currently studying python <br><br>🔭 I'm looking for my first job opportunity. My dream is to one day work with AI, Machine Learning and ethical hacking.<br><br>👨 💻 More About Me</p>
 
 ###
 
