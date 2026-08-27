@@ -9,10 +9,6 @@
 <p align="left">👋 Hi, I'm Victor! A passionate Developer student from Brazil.<br><br>🌱 I'm currently studying python <br><br>🔭 I'm looking for my first job opportunity. My dream is to one day work with AI, Machine Learning and ethical hacking.<br><br>👨 💻 More About Me</p>
 
 ###
-
-<h2 align="left">Stats</h2>
-
-###
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
