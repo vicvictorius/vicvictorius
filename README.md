@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Victor! A passionate Developer student from Brazil.<br><br>🌱 I'm currently studying python <br><br>🔭 I'm looking for my first job opportunity. 💻 
+<p align="left">👋 Hi, I'm Victor! A passionate Developer student from Brazil.<br><br>🌱 I'm currently studying python <br><br>🔭 I'm looking for more opportunities 💻 
 
 ###
 <!-- GIF -->
