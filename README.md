@@ -1,13 +1,6 @@
 
 
 <br clear="both">
-
-<h2 align="left">Hello World</h2>
-
-###
-
-<p align="left">👋 Hi, I'm Victor! A passionate Developer student from Brazil.<br><br>🌱 I'm currently studying python <br><br>🔭 I'm looking for more opportunities 💻 
-
 ###
 <!-- GIF -->
 <p align="left">
